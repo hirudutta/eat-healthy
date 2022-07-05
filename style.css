@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', san-serif;
+}
+
+span {
+    color: orange;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.food-button {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    background-color: orange;
+    border-radius: 15px;
+    padding: 10px 20px;
+
+}
+
+.healthy-side {
+    display: flex;
+    ;
+
+}
+
+.half {
+    width: 50%;
+    padding-left: 5px;
+}
+
+.half img {
+    width: 90%;
+}
