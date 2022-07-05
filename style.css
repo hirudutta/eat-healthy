@@ -22,7 +22,6 @@ h1 {
 
 .healthy-side {
     display: flex;
-    ;
 
 }
 
@@ -33,4 +32,27 @@ h1 {
 
 .half img {
     width: 90%;
+}
+
+.second-one {
+    width: 80%;
+}
+
+.female {
+    height: 442px;
+    width: 281px;
+    padding-left: 40%;
+}
+
+.space {
+    padding-left: 40%;
+}
+
+.bg-img {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.margin {
+    margin-top: 50px;
 }
